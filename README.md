@@ -33,7 +33,7 @@ neon-project/
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/Xostaa/neon-project.git
+git clone https://github.com/Xostaa/HelloWorld.git
 ```
 2. Перейдите в директорию проекта:
 ```bash
