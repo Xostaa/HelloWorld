@@ -46,6 +46,7 @@ cd neon-project
 2. CSS3 - стили и анимации
 3. Google Fonts - шрифт Roboto
 
+Предпросмотр : https://hello-world-eight-steel.vercel.app/
 
 
 
